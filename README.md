@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-## :warning: Required changes to your printer system :warning:
+## :warning: REQUIRED changes to your printer system :warning:
 
 <B> ATTENTION SV08 USERS! DROP YOUR MAX ACCEL TO 20K IN THE PRINTER CONFIG!
 
